@@ -6336,7 +6336,7 @@ button.close {
 .well, .navbar-inner, .popover, .btn, .tooltip,
 input, select, textarea, pre, .progress, .modal,
 .add-on, .alert, .table-bordered, .nav>li>a,
-.dropdown-menu, .tooltip-inner, .badge, .label,
+.dropdown-menu, .tooltip-inner, .badge,
 .img-polaroid, .thumbnail, .dropdown-toggle {
     -moz-box-shadow: none !important;
     -webkit-box-shadow: none !important;
